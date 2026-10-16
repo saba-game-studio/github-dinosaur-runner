@@ -110,6 +110,9 @@ Vite · JavaScript · three.js · Tauri 2 · WebAudio · localStorage
 - موتور سه‌بعدی: [three.js](https://threejs.org) (MIT)
 
 جزئیات در [CREDITS.md](CREDITS.md).
+برای حمایت از ما کلیک کنید
+[⬇️ حمایت از saba game studio](https://saba-game-studio.github.io/donate/) · 
+
 
 ---
 
